@@ -1,0 +1,16 @@
+1. Infinite loop
+2. Hello
+Hello
+      Hello
+3. In for loop
+      In for loop
+         In for loop
+4. 10 0
+  9 1
+  8 2
+  7 3
+  6 4
+  5 5
+  4 6
+
+
